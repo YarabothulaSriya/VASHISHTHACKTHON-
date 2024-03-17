@@ -54,6 +54,7 @@ IMAGES:
 EXACT STEPS TO TEST THE PROJECT:
 
  1.We need to install all the required packages in both cmd and vscode
+ 2.Then we need syntax like python mainfile.py(here python app.py)
  2.After that we will get one url like( http://127.0.0.1:5000) because it is a development project
  3.We need to paste that url in chrome
  4.Then we will get the front cam to detect our emotion
